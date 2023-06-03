@@ -77,7 +77,8 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>React Text to Speech App</h1>
+      <h1>Parz AI</h1>
+      <h1>Ask me !!</h1>
       <textarea
       style={{width:"200px",height:"300px"}}
         type='text'
